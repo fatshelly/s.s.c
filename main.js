@@ -217,14 +217,14 @@ $(window).on('load', function(){
             breakpoint: 769,//モニターの横幅が769px以下の見せ方
             settings: {
                 slidesToShow: 2,//スライドを画面に2枚見せる
-            }
+            },
         },
         {
             breakpoint: 426,//モニターの横幅が426px以下の見せ方
             settings: {
                 slidesToShow: 1.5,//スライドを画面に1.5枚見せる
-            }
-        }
+            },
+        },
     ]
     });
 
