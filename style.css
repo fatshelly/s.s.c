@@ -936,7 +936,7 @@ dd:last-child {
 }
 
 .info {
-    margin-left: 40px;
+    margin-right: 40px;
     padding: 40px;
     background: #4567B5;
     color: #fff;
@@ -1241,7 +1241,7 @@ padding: 500px 0;
     }
     
     .info {
-        margin-left: 40px;
+        margin-right: 40px;
         width: 100%;
     }
     
