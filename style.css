@@ -924,6 +924,10 @@ dd:last-child {
 
 /* info */
 
+#info .flex_item {
+    display: flex;
+}
+
 
 
 .textcontent {
@@ -1001,7 +1005,7 @@ dd:last-child {
     max-width: 50%;
     width: 50%;
     max-height: 200px;
-
+    display: flex;
 }
 
 .images .flex_item img {
