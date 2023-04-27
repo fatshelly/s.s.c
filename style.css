@@ -1140,6 +1140,10 @@ padding: 500px 0;
         margin-left: 4rem;
         width: 18rem;
     }
+	
+    .mainpic {
+        width: 65%;
+    }
 
     .wrapper {
         max-width: 860px;
