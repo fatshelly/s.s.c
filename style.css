@@ -1001,14 +1001,14 @@ dd:last-child {
     margin: 0 auto;
 }
 
-.images .flex_item {
+.images .horizontal {
     max-width: 50%;
     width: 50%;
     max-height: 200px;
     display: flex;
 }
 
-.images .flex_item img {
+.images .horizontal img {
     width: 65%;
     margin: 8px 4px;
 }
@@ -1351,9 +1351,9 @@ padding: 500px 0;
         width: 50%;
     }
 
-    .images .flex_item {
-        max-width: 50%;
-        width: 50%;
+    .images .horizontal {
+        max-width: 48%;
+        width: 48%;
         max-height: 200px;
         display: flex;
     }
