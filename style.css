@@ -941,7 +941,7 @@ dd:last-child {
     background: #4567B5;
     color: #fff;
     width: 75%;
-    box-shadow: 16px -16px 64px 0 rgba(0, 0, 0, .6);
+    box-shadow: 16px 16px 64px 0 rgba(0, 0, 0, .6);
 }
 
 .info h4 {
