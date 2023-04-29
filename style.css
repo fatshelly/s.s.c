@@ -803,7 +803,7 @@ dd:last-child {
     position: absolute;
     top: 0;
     left: 140px;
-    bottom: -80px;
+    bottom: -6%;
 }
 
 .coach_img {
@@ -815,7 +815,7 @@ dd:last-child {
 .coach_img img:last-child {
     width: 85%;
     height: 85%;
-    margin: 40px 0 0 20px;
+    margin: 30px 0 30px 20px;
 }
 
 .text_container {
@@ -1236,12 +1236,22 @@ padding: 500px 0;
 
     .vertical_line {
         left: 100px;
-        bottom: 0;
+        bottom: -10%;
+    }
+	
+    .coach_img {
+        width: 100%;
+    }
+    
+    .coach_img img:last-child {
+        width: 90%;
+        height: 90%;
+        margin: 30px 0 30px 5px;
     }
 	
     .text_container {
         width: 35%;
-        margin: 0 10px 0 0;
+        margin: 0 15px;
     }
 
     #info {
@@ -1292,6 +1302,10 @@ padding: 500px 0;
     .wrapper {
         max-width: 400px;
     }
+		
+    #lessons {
+        padding: 80px 15px;
+    }
 
     .lesson_items {
         flex-direction: column;
@@ -1330,8 +1344,8 @@ padding: 500px 0;
     }
 
     .coach_img {
-        width: 90%;
-        margin-left: -90px;
+        width: 100%;
+        margin-left: -50%;
     }
 
     .coach .flex_item {
