@@ -1333,6 +1333,10 @@ padding: 500px 0;
     .viewmore {
         width: 8rem;
     }
+	
+    .flex_box {
+	width: 100%;
+    }
 
     .vertical_line {
         width: 55%;
