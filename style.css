@@ -1258,9 +1258,13 @@ padding: 500px 0;
         margin: 40px 0;
     }
 
+    .images {
+        width: 45%;
+    }
+
     .textcontent {
-        width: 54%;
-        margin: 0;
+        width: 50%;
+        margin: 0 auto;
     }
     
     .info {
