@@ -1324,7 +1324,10 @@ padding: 500px 0;
 
     .section_titleBG {
         font-size: 80px;
-
+    }
+	
+　　.vertical_line {
+        width: 60%;
     }
 
     .coach_img {
