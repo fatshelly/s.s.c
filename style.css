@@ -935,11 +935,11 @@ dd:last-child {
 }
 
 .info {
-    margin-right: 40px;
     padding: 40px;
     background: #4567B5;
     color: #fff;
     width: 75%;
+    margin: 0 auto;
     box-shadow: 16px 16px 64px 0 rgba(0, 0, 0, .6);
 }
 
