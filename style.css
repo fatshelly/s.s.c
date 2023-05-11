@@ -527,6 +527,7 @@ header {
 .viewmore {
     width: 10em;
     height: 2.5em;
+    line-height: 2.5em;
     vertical-align: center;
     position: absolute;
     bottom: -20px;
