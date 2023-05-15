@@ -1227,9 +1227,8 @@ padding: 500px 0;
 	    
     }
 
-	
     .coach_img {
-        width: 100%;
+        width: 85%;
     }
     
     .coach_img img:last-child {
@@ -1324,15 +1323,14 @@ padding: 500px 0;
 
     .section_titleBG {
         font-size: 80px;
+	top: 75px;
+        right: 0;
     }
 	
 　　.vertical_line {
-    	width: 60%;
+    	width: 61%;
+	padding: 120px 0 40px 0;
 　　 }
-	
-    .coach_img {
-        width: 100%;
-    }
 	
     .coach_img img:last-child {
     	margin-left: 10px;
